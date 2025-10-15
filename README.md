@@ -6,7 +6,6 @@
 
 - **Spring Boot 3.5.6** - Java 기반 웹 애플리케이션 프레임워크
 - **Spring WebFlux** - 비동기 웹 클라이언트 (Riot API 호출용)
-- **Spring Data JPA** - 데이터 접근 계층 (사용하지 않음)
 
 ### 프론트엔드
 
